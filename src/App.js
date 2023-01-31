@@ -29,7 +29,7 @@ function App() {
     mapContainerRef.current.appendChild(newMap);
 
     // eslint-disable-next-line no-undef
-    const map = new geolonia.Map({
+    new geolonia.Map({
       container: newMap,
     });
   }, []);
