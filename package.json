@@ -24,6 +24,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://geolonia.github.io/coordinate-conversion/",
   "browserslist": {
     "production": [
       ">0.2%",
